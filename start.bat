@@ -1,4 +1,4 @@
-composer install
+call composer install --no-interaction
 
 copy .env.example .env
 
